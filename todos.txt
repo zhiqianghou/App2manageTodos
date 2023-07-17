@@ -1,0 +1,6 @@
+clean
+wash
+default and non-default
+fix the bug
+Make soup
+make pizza
