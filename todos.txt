@@ -4,3 +4,6 @@ default and non-default
 fix the bug
 Make soup
 make pizza
+contact the piano teacher
+wash the backyard
+test the WIN_CLOSED
